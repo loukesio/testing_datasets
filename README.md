@@ -1,4 +1,4 @@
-## Training data-sets
+## Bioinformatics training data-sets
 
 How often have you thought you need a small dataset for testing purposes?
 
