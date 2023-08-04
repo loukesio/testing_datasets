@@ -1,5 +1,6 @@
-# testing_datasets
-How many times you have thought that you need a small dataset for testing purposes?
+## Training data-sets
+
+How often have you thought you need a small dataset for testing purposes?
 
 ### Download the E. coli whole genome FASTQ files from Illumina's website
 
